@@ -2,5 +2,5 @@
 // To run locally use 'mongodb://localhost/mern-crud' instead of process.env.DB
 
 module.exports = {
-	db: 'mongodb://porchiaTest01_02:MongoDB2018!!!@porchiatest01-shard-00-00-t10gy.gcp.mongodb.net:27017,porchiatest01-shard-00-01-t10gy.gcp.mongodb.net:27017,porchiatest01-shard-00-02-t10gy.gcp.mongodb.net:27017/test?ssl=true&replicaSet=PorchiaTest01-shard-0&authSource=admin'
+	db: 'mongodb://XXXXXXXXXXXXXX:XXXXXXXXXXXXX@porchiatest01-shard-00-00-t10gy.gcp.mongodb.net:27017,porchiatest01-shard-00-01-t10gy.gcp.mongodb.net:27017,porchiatest01-shard-00-02-t10gy.gcp.mongodb.net:27017/test?ssl=true&replicaSet=PorchiaTest01-shard-0&authSource=admin'
 };
